@@ -1,0 +1,54 @@
+html {
+    background-image: url(../images/bakgrund\ 5.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:blueviolet;
+    overflow-y: scroll;
+} 
+
+img {border-radius: 50%;
+    max-width: 15%;
+    max-height: 15%;
+}
+h1 { color: rgb(71, 4, 48); 
+    font-size: 50px;
+    font-weight: 400;  
+    font-style: oblique;
+    background-color: #a68187;
+    text-align:center;
+}
+p {text-align: center;
+    color: #a30937;
+    font-size: 20px;
+    font-weight:400px;
+}
+h2 {text-align: left;
+    color: rgb(71, 4, 48);
+    background-color: #a68187;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 800;
+}
+
+h4 {text-align: center;color: #72102d; font-size: 20px;
+}
+nav li {overflow: hidden;
+}
+nav li {
+    float: left;
+    display: block;
+    font-size: 15px;
+    font-weight: 800;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none; 
+}
+
+nav li:hover {
+    background-color:#a68187;
+ }
+
+ li {text-align: lef;color:#7b072a; font-size: 20px;
+    }
